@@ -1,0 +1,430 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="9"><page Index="1"><![CDATA[]]></page><page Index="2"><![CDATA[Y C S D
+                                                                                                PHOTOSHOP
+
+                                              Workspace and Workflow
+
+         Photoshop CS6 workspace
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             A. Tabbed Document windows B. Application bar C. Workspace switcher D. Panel title bar E. Control panel
+                         F. Tools panel G. Collapse to Icons button H. Four panel groups in vertical dock
+
+
+         Dock and undock panels
+
+         A dock is a collection of panels or panel groups displayed together, generally in a vertical orientation. You dock and
+         undock panels by moving them into and out of a dock.
+
+               To dock a panel, drag it by its tab into the dock, at the top, bottom, or in between other panels.
+               To dock a panel group, drag it by its title bar (the solid empty bar above the tabs) into the dock.
+               To remove a panel or panel group, drag it out of the dock by its tab or title bar. You can drag it into another
+                dock or make it free-floating.
+
+
+         Move panels
+
+               To move a panel, drag it by its tab.
+               To move a panel group, drag the title bar.
+                    A. Title bar
+                    B. Tab
+                    C. Drop zone
+
+
+
+
+
+
+
+
+
+
+                                                                                                   Page - 1]]></page><page Index="3"><![CDATA[Y C S D
+                                                                                                PHOTOSHOP
+
+         Add and remove panels
+
+               To remove a panel, right-click (Windows) or Control-click (Mac) its tab and then select Close, or deselect it
+                from the Window menu.
+               To add a panel, select it from the Window menu and dock it wherever you want.
+
+
+         Resize panels
+
+               To minimize or maximize a panel, panel group, or stack of panels, double-click a tab. You can also double-
+                click the tab area (the empty space next to the tabs).
+               To resize a panel, drag any side of the panel. Some panels, such as the Color panel in Photoshop, cannot be
+                resized by dragging.
+
+
+         Delete a custom workspace
+
+               Select Manage Workspaces from the workspace switcher in the Application bar, select the workspace, and
+                then click Delete.
+               Choose Window > Workspace > Delete Workspace, select the workspace, and then click Delete.
+
+
+                                                          Tools
+
+
+         Selection tools
+
+
+
+
+
+
+
+
+
+           The marquee tools           The Move tool           The lasso tools
+            make rectangular,         moves selections,        make freehand,             The Quick
+           elliptical, single row,   layers, and guides.      polygonal (straight      Selection tool lets
+            and single column                                    edged), and          you quickly “paint” a
+                                                                                       selection. using an
+                selections.                                   magnetic (snap to)        adjustable round
+                                                                  selections               brush tip
+
+                               The Magic Wand tool
+
+                               selects similarly
+                               colored areas
+
+
+
+
+
+
+
+
+
+
+
+
+            The Crop tool trims                The Slice tool creates              The Slice Select tool
+                  images.                             slices.                         selects slices.
+
+
+                                                                                                   Page - 2]]></page><page Index="4"><![CDATA[Y C S D
+                                                                                                PHOTOSHOP
+
+         Retouching tools
+
+
+
+
+
+
+
+
+
+              The Spot Healing      The Healing Brush tool     The Patch tool repairs     The Red Eye tool
+             Brush tool removes      paints with a sample or     imperfections in a        removes the red
+            blemishes and objects.      pattern to repair       selected area of an     reflection caused by a
+
+
+                                       imperfections in an     image using a sample             flash.
+                                            image.                  or pattern.
+
+
+
+
+
+
+
+
+
+
+             The Clone Stamp          The Pattern Stamp        The Eraser tool erases       The Background
+              tool paints with a      tool paints with part   pixels and restores parts    Eraser tool erases
+            sample of an image.        of an image as a           of an image to a        areas to transparency
+                                           pattern.            previously saved state.        by dragging.
+
+
+
+
+
+
+
+
+
+
+           The Magic Eraser tool       The Blur tool blurs        The Sharpen tool           The Smudge tool
+            erases solid-colored        hard edges in an         sharpens soft edges        smudges data in an
+           areas to transparency             image.                 in an image.                  image.
+             with a single click.
+
+
+
+
+
+
+
+
+
+
+
+             The Dodge tool             The Burn tool             The Sponge tool
+           lightens areas in an       darkens areas in an         changes the color
+                 image.                     image.                 saturation of an
+                                                                       area.
+
+
+
+
+                                                                                                   Page - 3]]></page><page Index="5"><![CDATA[Y C S D
+                                                                                                PHOTOSHOP
+
+         Painting tools
+
+
+
+
+
+
+
+
+
+
+             The Brush tool           The Pencil tool            The Color             The Mixer Brush tool
+           paints brush strokes.     paints hard-edged        Replacement tool          Simulates realistic
+                                          strokes.           replaces a selected        painting techniques
+                                                               color with a new          such as blending
+                                                                   color.               canvas colors and
+                                                                                       varying paint wetness.
+
+
+
+
+
+
+
+
+
+           The History Brush          The Art History         The gradient tools        The Paint Bucket
+
+            tool paints a copy       brush tool paints        create straight-line,      tool fills similarly
+            of the selected state   with stylized strokes        radial, angle,         colored areas with
+           or snapshot into the       that simulate the          reflected, and        the foreground color.
+
+              current image           look of different         diamond blends
+                window.             paint styles, using a       between colors.
+                                      selected state or
+                                         snapshot.
+
+         Drawing and type tools
+
+
+
+
+
+
+
+
+
+
+
+           The type tools create       The path selection        The type mask tools        The pen tools let
+             type on an image.         tools make shape or       create a selection in      you draw smooth-
+                                       segment selections
+                                                                  the shape of type.
+                                                                                               edged paths.
+                                         showing anchor
+                                         points, direction
+                                        lines, and direction
+                                             points.
+
+
+                               The shape tools and                  The Custom Shape
+                               Line tool draw shapes                tool  makes customized
+                               and lines in a normal                shapes selected from a
+                               layer or a shape layer.              custom shape list.
+
+
+
+                                                                                                   Page - 4]]></page><page Index="6"><![CDATA[Y C S D
+                                                                                                PHOTOSHOP
+
+         Navigation, notes, and measuring tools
+
+
+
+
+
+
+
+
+                The Hand tool           The Rotate View           The Zoom tool           The Note tool makes
+               moves an image              tool non-               magnifies and            notes that can be
+
+               within its window.      destructively rotates      reduces the view        attached to an image.
+                                          the canvas.
+                                                                    of an image.
+
+
+
+
+
+
+
+
+
+
+             The Eyedropper          The Color Sampler tool        The Ruler tool            The Count tool
+            tool samples colors      displays color values for   measures distances,         counts objects in
+               in an image.              up to four areas.          locations, and              an image.
+                                                                       angles.
+
+
+
+         Pixel Dimensions and Printed Image Resolution
+
+         Pixel dimensions measure the total number of pixels along an
+         image’s width and height. Resolution is the fineness of detail in a
+         bitmap image and is measured in pixels per inch (ppi). The more
+         pixels per inch, the greater the resolution. Generally, an image
+         with a higher resolution produces a better printed image quality.
+
+
+                                                                           Same image at 72-ppi and 300-ppi;
+                                                                                   inset zoom 200%
+
+         Color modes
+
+
+           RGB Color mode   CMYK Color mode      Lab Color mode        Grayscale mode
+
+           Bitmap mode     Duotone mode          Indexed Color mode    Multichannel mode
+
+         Options Bar
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                   Page - 5]]></page><page Index="7"><![CDATA[Y C S D
+                                                                                                PHOTOSHOP
+
+
+
+         Tool Presets
+
+             A.  Click the Tool Preset picker in the options bar to show the Tool Preset pop-up panel.
+             B.  Select a preset to change the tool’s options to the preset, which applies each time you select the tool until you
+                choose Reset Tool from the panel menu.
+             C.  Deselect to show all tool presets; select to show presets for only the tool selected in the toolbox.
+
+
+
+         Filter layers
+
+         Filter layers options in the Layers panel
+
+
+                A. Gripper bar
+                B. Tool tip
+
+
+
+
+
+
+         History panel
+
+             A.  Sets the source for the history brush
+             B.  Thumbnail of a snapshot
+             C.  History state
+             D.  History state slider
+
+
+         Layers panel
+
+
+         A.     Layers panel menu
+         B.     Layer Group
+         C.     Layer
+         D.     Expand/Collapse Layer effects
+         E.     Layer effect
+         F.     Layer thumbnail
+
+
+         Knockout
+
+               Farm logo with shallow knockout to Background layer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                   Page - 6]]></page><page Index="8"><![CDATA[For Student
+
+
+
+
+               Please Ensure Your Enrollment Verification
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  For Franchise
+
+
+
+               Please Login Via Franchise Id & Password]]></page><page Index="9"><![CDATA[]]></page></pages></Search>
